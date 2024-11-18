@@ -1,0 +1,31 @@
+header{
+    border-bottom: solid 2px rgb(81, 230, 76);
+    color: rgb(78, 202, 73);
+    padding: 1%;
+    font-size: 30;
+    font-family: "lora", sans-serif;
+}
+body{
+    color:rgb(201, 201, 201);
+    background:rgb(10, 10, 10);
+    font-family: "chakra petch", sans-serif;
+}
+section{
+    background: rgb(10, 10, 10);
+    font-size: 20px;
+    padding-bottom: 40px;
+    border-bottom: solid 2px white;
+    display:flex;
+    justify-content: center;
+}
+.texto{
+    margin-right: 5%;
+    margin-left: 1%;
+}
+.video{
+    margin-right: 2.5%;
+    margin-top: 2.5%;
+}
+P{
+    font-size: 25px;
+}
